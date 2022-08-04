@@ -9,7 +9,7 @@ Used the same logic as the qb-shops so the config is self explanatory.
 - Multiple blackmarkets supported
 - Random or fixed locations (when random, location changes after each script restart)
 - Multiple checks for inventory size and slot limits
-- Localisation : Translated to languages ; English, Dutch and Turkish
+- Localisation : Translated to languages ; English, Dutch, Czech and Turkish
 - Ability to open the shop with a configured item
 - Ability to use black money (markedbills or other itemname) or Q-Bit as payment method
 - When using the blackmoney option, you can add a multiplier to the price if you want to sell items for more when paid by blackmoney.
